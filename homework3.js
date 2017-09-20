@@ -79,6 +79,8 @@ const lengthComparing = function(str1, str2, str3) {
 
 //console.log(lengthComparing('Introduction', 'Computer', 'Science'));
 
+
+
 /*****************************************************************
   F- function that takes two numbers and returns 0 if they are equal,
    1 if the first is larger and -1 if the second is larger
